@@ -1,4 +1,5 @@
 #About the app
+
 This app is the implementation of fetching the data from the api. The Meal Db api is used to fetch the data about recipes.
 
 
