@@ -1,3 +1,7 @@
+#About the app
+This app is the implementation of fetching the data from the api. The Meal Db api is used to fetch the data about recipes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
