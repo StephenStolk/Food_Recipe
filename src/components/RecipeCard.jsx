@@ -17,7 +17,7 @@ const RecipeCard = ({ recipe }) => {
             <div className="card-body">
                 <span className="category">{strCategory}</span>
                 <h3>{strMeal}</h3>
-                <a href={"https://www.themealdb.com/meal/" + idMeal} target="_blank">Instructions</a>
+                <a className="btn-instructions" href={"https://www.themealdb.com/meal/" + idMeal} target="_blank">Instructions</a>
             </div>
         </div>
     )
